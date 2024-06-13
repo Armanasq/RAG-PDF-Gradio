@@ -1,5 +1,7 @@
 # PDF Information and Inference 🗞️
 
+![image](https://github.com/Armanasq/RAG-PDF-Gradio/assets/60850934/6e4174ba-a8c5-4f64-a0ec-c035d78e792a)
+
 ## Overview
 This project provides a Gradio interface to upload a PDF, extract its content, and interact with it using natural language queries. The model answers questions based on the content of the uploaded PDF, using a combination of HuggingFace and Llama Index.
 
