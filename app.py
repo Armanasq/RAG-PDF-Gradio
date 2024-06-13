@@ -9,7 +9,7 @@ import base64
 import subprocess
 from langdetect import detect
 
-args = "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"
+args = "YOUR_TOKEN"
 # Load environment variables
 command = f"huggingface-cli login --token {args}"
 
